@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/alaswaq/static/css/main.f855e6bc.css",
+    "main.js": "/alaswaq/static/js/main.f2732ded.js",
+    "static/js/453.30f23ca1.chunk.js": "/alaswaq/static/js/453.30f23ca1.chunk.js",
+    "static/media/logo.svg": "/alaswaq/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/alaswaq/index.html",
+    "main.f855e6bc.css.map": "/alaswaq/static/css/main.f855e6bc.css.map",
+    "main.f2732ded.js.map": "/alaswaq/static/js/main.f2732ded.js.map",
+    "453.30f23ca1.chunk.js.map": "/alaswaq/static/js/453.30f23ca1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f2732ded.js"
+  ]
+}
